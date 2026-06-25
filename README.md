@@ -1,8 +1,8 @@
 <h1> About me: </h1>
 
-- 👋 Hi, I’m @coolpunk
+- 👋 Hi, I’m @dekreez
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS, C/C++
+- 🌱 I’m currently learning Python, Go
 - 📫 How to reach me - somehow
 
 <h3 align="left">Languages and Tools:</h3>
